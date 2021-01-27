@@ -12,6 +12,8 @@ body {
 
 button {
   font-family: "Muli", sans-serif;
+  border: none;
+  outline: none;
 }
 
 path,
